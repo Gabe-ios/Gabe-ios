@@ -4,7 +4,7 @@
 
 <h2 align="center">  About me!</h2>
 <p align="center">
-  <samp> I am aspiring cybersecurity specialst pursing my Bachelors in Cybersecurity at the University of Texas at San Antonio. I have strong interest in cloud and application security, and enjoy simulating real world events within my proejcts. I love to collaborate and exercise my knowledge with others, and am very passionate about my work! 
+  <samp> I'm an aspiring cybersecurity specialst pursuing my Bachelors in Cybersecurity at the University of Texas at San Antonio. I have strong interest in cloud and application security, and enjoy simulating real world events within my proejcts. I love to collaborate and exercise my knowledge with others, and am very passionate about my work! 
 
     
   </samp>
